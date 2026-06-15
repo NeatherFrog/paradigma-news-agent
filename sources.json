@@ -8,11 +8,11 @@
     "https://techcrunch.com/category/artificial-intelligence/feed/",
     "https://www.theverge.com/rss/index.xml",
     "https://venturebeat.com/category/ai/feed/",
-    "https://hnrss.org/frontpage",
+    "https://hnrss.org/frontpage?points=100",
     "https://openai.com/blog/rss.xml",
     "https://www.anthropic.com/rss.xml",
     "https://huggingface.co/blog/feed.xml"
   ],
-  "lookback_hours": 30,
+  "lookback_hours": 3,
   "max_headlines_to_consider": 22
 }

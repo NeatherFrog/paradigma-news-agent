@@ -3,7 +3,7 @@
   "build": { "builder": "NIXPACKS" },
   "deploy": {
     "startCommand": "python news_agent.py",
-    "cronSchedule": "0 13 * * *",
+    "cronSchedule": "0 6,10,13,16,19,22 * * *",
     "restartPolicyType": "NEVER"
   }
 }

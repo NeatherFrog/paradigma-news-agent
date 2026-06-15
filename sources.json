@@ -3,16 +3,16 @@
     "https://cointelegraph.com/rss",
     "https://www.coindesk.com/arc/outboundfeeds/rss/",
     "https://decrypt.co/feed",
-    "https://thedefiant.io/feed",
-    "https://bitcoinmagazine.com/feed",
-    "https://blog.ethereum.org/feed.xml",
+    "https://www.theblock.co/rss.xml",
+    "https://techcrunch.com/feed/",
     "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "https://www.theverge.com/rss/index.xml",
     "https://venturebeat.com/category/ai/feed/",
-    "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+    "https://hnrss.org/frontpage",
     "https://openai.com/blog/rss.xml",
     "https://www.anthropic.com/rss.xml",
     "https://huggingface.co/blog/feed.xml"
   ],
   "lookback_hours": 30,
-  "max_headlines_to_consider": 18
+  "max_headlines_to_consider": 22
 }
